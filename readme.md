@@ -19,6 +19,12 @@ The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
+## Tech Stack
+
+- **SQL Database Management System:** MySQL
+- **Data Analysis Tools:** SQL queries
+- **Dataset Source:** [Netflix Data Analysis - Kaggle](https://www.kaggle.com/datasets/ankulsharma150/netflix-data-analysis)
+
 ## Schema
 
 ```sql
