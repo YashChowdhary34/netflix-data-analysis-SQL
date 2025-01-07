@@ -1,8 +1,6 @@
 # Netflix Data Analysis Using SQL
 
-<div align="center">
-    <img src="https://github.com/YashChowdhary34/netflix-data-analysis-SQL/assets/netflix-logo" alt="Netflix Logo" height="200" width="400">
-</div>
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
 ## Overview
 This project focuses on analyzing Netflix data using SQL to uncover trends, insights, and actionable business strategies. By querying a dataset containing information about Netflix’s content, we aim to address key business problems related to content distribution, audience preferences, and platform growth.
@@ -30,11 +28,6 @@ This project focuses on analyzing Netflix data using SQL to uncover trends, insi
 - Perform SQL-based analysis on Netflix’s content dataset.
 - Derive actionable insights to inform content strategy and platform growth.
 - Utilize advanced SQL techniques such as joins, subqueries, and window functions.
-
----
-
-## ER Diagram
-![ER-diagram](https://github.com/YashChowdhary34/netflix-data-analysis-SQL/assets/er-diagram)
 
 ---
 
